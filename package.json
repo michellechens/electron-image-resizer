@@ -1,0 +1,17 @@
+{
+  "name": "electron-image-resizer",
+  "version": "1.0.0",
+  "description": "App to resize image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michelle Chen",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^25.1.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
